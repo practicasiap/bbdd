@@ -1,1 +1,2 @@
-select * from emple;
+select * 
+from emple;
